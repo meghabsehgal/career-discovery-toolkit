@@ -52,9 +52,35 @@ This section helps you channel that energy with intention:
 - Which of these will I experiment with publicly (learning-in-public)?
 ```
 
-Also includes:
-- **Experiment Tracker Template** (e.g. 30-day sprint log)
-- **Clarity Dashboard** for mapping ideas vs. energy vs. money potential
+---
+
+## 🧪 Experiment Tracker Template (30-Day Sprint Log)
+
+Track what you're trying and learning in a structured format:
+
+```markdown
+### 30-Day Sprint Log
+| Date | Experiment | Why This? | Time Spent | What I Learned |
+|------|------------|-----------|------------|----------------|
+|      |            |           |            |                |
+```
+
+Use this for habit change, career experiments, or life design tests.
+
+---
+
+## 🔍 Clarity Dashboard: Ideas vs Energy vs Money Potential
+
+Map your ideas using three dimensions to find what’s worth pursuing:
+
+```markdown
+### Clarity Dashboard
+| Idea | Energy Level (1–5) | Excitement (1–5) | Earning Potential (₹/💰) | Notes |
+|------|--------------------|------------------|--------------------------|-------|
+|      |                    |                  |                          |       |
+```
+
+Helps reduce overwhelm and focus your attention where it matters.
 
 ---
 
